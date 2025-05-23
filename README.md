@@ -93,7 +93,7 @@
 ## 🐍Contributions:
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HsAhRaSrHmIaT/HsAhRaSrHm/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vishalpandey1799/vishalpandey1799/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
