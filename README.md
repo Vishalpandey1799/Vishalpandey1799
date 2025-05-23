@@ -15,8 +15,8 @@
 
 ## 📊My Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HsAhRaSrHmIaT&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HsAhRaSrHmIaT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=1" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalpandey1799&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpandey1799&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=1" height="145" alt="languages graph"  />
 </div>
 
 ###
@@ -77,8 +77,8 @@
 <div align="left">
   
   ## 🤝Connect with Me:
-  <a href="https://www.linkedin.com/in/harshit-sharma-223612296/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" alt="linkedin logo"  /></a>
-  <a href="mailto:harshitsharma2.04@outlook.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" height="40" alt="microsoft-outlook logo"  /></a>
+  <a href="https://www.linkedin.com/in/vishal-sharma-223612296/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" alt="linkedin logo"  /></a>
+ 
   <a href="https://t.me/HsAhRaSrHmIaT"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="40" alt="telegram logo" /></a>
   <a href="https://discordapp.com/users/886296985743798382"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="40" alt="discord logo"  /></a>
   <a href="https://twitter.com/HsAhRaSrHmIaT"><img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" height="40" alt="X logo" /></a>
