@@ -1,7 +1,7 @@
 # <div align="center">🌟 VISHAL PANDEY 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🏗️+Backend+Architect+%7C+System+Designer;⚡+Building+Tomorrow's+Infrastructure+Today;🚀+Node.js+%E2%9A%A1+TypeScript+%E2%9A%A1+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🏗️+Building+Tomorrow's+Infrastructure+Today;🚀+Node.js+%E2%9A%A1+TypeScript+%E2%9A%A1+Cloud+Native" alt="Typing SVG" />
 </div>
 
 <div align="center">
